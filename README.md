@@ -1,6 +1,6 @@
 # Knitting Pattern Generator
 
-A web application that converts images into knitting patterns by reducing colors and creating a grid-based pattern suitable for knitting projects. Made for my girlfriend **:)*.
+A web application that converts images into knitting patterns by reducing colors and creating a grid-based pattern suitable for knitting projects. Made for my girlfriend :).
 
 ## Features
 
